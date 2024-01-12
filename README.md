@@ -1,2 +1,2 @@
 # Arduino-web-server
-Arduino-web server to switch On/Off some relays
+Very simple web server hosted on Arduino Uno to switch On/Off some relays
